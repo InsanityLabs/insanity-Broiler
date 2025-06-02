@@ -59,7 +59,7 @@ The ultimate Next.js boilerplate for building SaaS applications faster than ever
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/InsanityLabs/insanity-Broiler.git>
    cd insanity-broiler
    ```
 
